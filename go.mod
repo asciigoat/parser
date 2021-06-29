@@ -1,4 +1,4 @@
-module asciigoat.org/parsers
+module asciigoat.org/parser
 
 go 1.16
 
