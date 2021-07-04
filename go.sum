@@ -1,2 +1,4 @@
-asciigoat.org/core v0.1.0 h1:3CJoQFr/ux5E2gZDn7s+uocKGcPEpg5QaoHQlKaeGhk=
-asciigoat.org/core v0.1.0/go.mod h1:Rop2XZT6lqWiAz7nVXkaQBtXWg5izC3fP/BhgJUez4Q=
+asciigoat.org/core v0.2.0 h1:CmFVWYZTU88TUdsqWzJgrRg9pObCeyACjhKx9ocldIk=
+asciigoat.org/core v0.2.0/go.mod h1:Rop2XZT6lqWiAz7nVXkaQBtXWg5izC3fP/BhgJUez4Q=
+go.sancus.dev/core v0.6.0 h1:PEtou7Ez+KYgazUMrS23IbT5srvRo9y4sQd+jGrGx/U=
+go.sancus.dev/core v0.6.0/go.mod h1:Gg1aTz1Hv0s0PNtfO0WZ4qMPMDzP0/DoyccfCho73yw=
